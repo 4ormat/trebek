@@ -1,6 +1,7 @@
 {
   "name": "trebekbot",
   "description": "A Jeopardy! bot for Slack.",
+  "stack": "heroku-20",
   "keywords": [
     "slack",
     "bot",
